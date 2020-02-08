@@ -9,9 +9,9 @@
 
 ### [1. INTRODUCCIÓN](https://github.com/cristhian-jg/java-mail-client/blob/master/README.md#1-introducci%C3%B3n)
 ### [2. CREANDO MI SERVIDOR DE CORREO](https://github.com/cristhian-jg/java-mail-client/blob/master/README.md#2-creando-mi-servidor-de-correo)
-### [3. AUNTENTICANDO E-MAILS EN JAVA](https://github.com/cristhian-jg/java-mail-client/blob/master/README.md#3-pruebas-con-el-servidor-de-correo)
-### 4. ENVIANDO MAILS A TRAVES DE JAVA
-### 5. LEYENDO MAILS A TRAVES DE JAVA
+### [3. PRUEBAS CON EL SERVIDOR DE CORREO](https://github.com/cristhian-jg/java-mail-client/blob/master/README.md#3-pruebas-con-el-servidor-de-correo)
+### 5. ENVIANDO MAILS A TRAVES DE JAVA
+### 6. LEYENDO MAILS A TRAVES DE JAVA
 
 
 
