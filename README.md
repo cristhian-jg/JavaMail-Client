@@ -27,12 +27,14 @@ Para crear mi propio servidor de correo me he decantado por usar hMailServer, es
 
 Primero mostraré un poco cómo he configurado mi servidor de correo, para así dar más detalle de como he realizado esta practica. Una vez descargue e instalé hMailServer tuve que crear un nuevo dominio personalizado la que he llamado “pruebas.crisgon”. 
 
-//IMAGEN
+![Imagen 1](1.png)
+
+
 
 A este dominio le he añadido un par de cuentas con las que estaré trabajando para realizar la práctica. A las que he llamado esta vez pruebasuser1@pruebas.crisgon y pruebasuser2@pruebas.crisgon, un nombre completamente valido, le he definido una configuración básica como la contraseña y  el tamaño máximo que puede llegar a almacenar (sí, no está a cero en la captura porque hice unas pruebas antes y estuve enviandome mensajes). Además en configuración avanzada se le ha dado un nombre a la cuenta, pero es solo indicativo.
 En la siguiente captura se muestra un poco como luce la configuración de esta cuenta:
 
-//IMAGEN
+![Imagen 2](2.png)
 
 Por otro lado para poder luego ver el Log de lo que iba pasando en el servidor tuve que ir indagando un poco en la configuración (Settings) porque en un principio el registro en vivo o logging no me funcionaba, se ve no viene configurado por defecto. 
 
@@ -40,7 +42,7 @@ Por otro lado para poder luego ver el Log de lo que iba pasando en el servidor t
 
 Por lo que tuve activarlo por mi cuenta en la opción de Settings → Logging donde debe marcarse como Enabled y marcar SMTP.
 
-// IMAGEN
+![Imagen 3](3.png)
 
 En principio con está configuración ya he podido empezar a usar mi servidor de correo, ahora en el siguiente apartado me conectaré a mis cuentas y me enviaré mensajes entre ellas para revisar que todo funciona correctamente. 
 
@@ -48,19 +50,19 @@ En principio con está configuración ya he podido empezar a usar mi servidor de
 
 Como cliente de correo electronico voy a utilizar Mozilla Thunderbird, ya que dispone de muchas opciones de configuración accesibles y no me ha costado conectarme a mis cuentas. Con el programa instalado, he tenido que añadir mis cuentas cuenta de manera manual indicandole el servidor, el tipo de conexión que utiliza, el puerto, entre otras cosas. En la siguiente captura se muestra como queda la configuración manual de la cuenta en Thunderbird.
 
-// IMAGEN
+![Imagen 4](4.png)
 
 En el puerto del servidor habrá utilizar la ip del equipo, esto se sabe haciendo un ipconfig en la cmd, hay que tener cuidado al coger la correcta, ya que cambiará si estamos por wifi o cable de red. Yo tenía un problema y era que mi portatil tenia asignadas dos IP Ethernet y estaba cogiendo la erronea y no podía ni conectarme a mis cuentas, cuando me di cuenta todo fue bien.
 
-// IMAGEN
+![Imagen 5](5.png)
 
 Una vez agregadas las dos cuentas a Thunderbird llego la hora de hacer pruebas, y que me mejor manera de enviarme correos con estas cuentas, eso hice y los resultados fueron positivos. Me dio para hacer un pequeña conversación y todo.
 
-// IMAGEN
+![Imagen 6](6.png)
 
 Además se ve reflejado en el Logging del servidor, además de otras acciones que realiza este, pero lo que destaca es lo que tengo marcado en amarillo.
 
-// IMAGEN
+![Imagen 7](7.png)
 
 Con esto di por finalizadas las pruebas y me puse con el programa en el que simulo un cliente de correo electronico. 
 
