@@ -4,6 +4,7 @@
 ###### Módulo: Programación de servicios y procesos
 ###### Curso: 2º DAM
 
+![JavaMail](https://www.logicbig.com/tutorials/java-ee-tutorial/java-mail/images/java-mail.png)
 
 #### INDICE
 
