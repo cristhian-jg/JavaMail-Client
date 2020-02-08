@@ -589,3 +589,5 @@ public class InboxWindow extends JFrame {
 }
 
 ```
+
+Habrá un video o gif adjunto a la entrega donde se muestra el funcionamiento del programa, con esto doy por finalizada la documentación.
