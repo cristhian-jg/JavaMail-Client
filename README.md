@@ -6,7 +6,7 @@
 
 ![JavaMail](https://www.logicbig.com/tutorials/java-ee-tutorial/java-mail/images/java-mail.png)
 
-#### INDICE
+# INDICE
 
 ### [1. INTRODUCCIÓN](#1-introducci%C3%B3n)
 ### [2. CREANDO MI SERVIDOR DE CORREO](#2-creando-mi-servidor-de-correo)
