@@ -9,11 +9,11 @@
 # INDICE
 
 ### [1. INTRODUCCIÓN](#1-introducci%C3%B3n)
-### [2. CREANDO MI SERVIDOR DE CORREO](#2-creando-mi-servidor-de-correo)
+### [2. CREANDO MI SERVIDOR DE CORREO](#2-creando-mi-servidor-de-correo-1)
 ### [3. PRUEBAS CON EL SERVIDOR DE CORREO](#3-pruebas-con-el-servidor-de-correo-1)
 ### [4. AUNTENTICANDO E-MAILS EN JAVA](#4-autenticando-e-mails-en-java)
 ### [5. ENVIANDO MAILS A TRAVES DE JAVA](#5-enviando-mails-a-través-de-java)
-### [6. LEYENDO MAILS A TRAVES DE JAVA](#6-leyendo-mails-a-través-de-java)
+### [6. LEYENDO MAILS A TRAVES DE JAVA](#6-leyendo-mails-a-traves-de-java-1)
 
 ## 1. INTRODUCCIÓN
 
