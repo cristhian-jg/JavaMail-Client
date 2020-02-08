@@ -7,7 +7,7 @@
 
 #### INDICE
 
-### 1. INTRODUCCIÓN [1.INTRODUCCIÓN](http://www.limni.net)
+### 1. INTRODUCCIÓN [1.INTRODUCCIÓN](https://github.com/cristhian-jg/java-mail-client/blob/master/README.md#1-introducci%C3%B3n)
 ### 2. CREANDO MI SERVIDOR DE CORREO
 ### 3. AUNTENTICANDO E-MAILS EN JAVA
 ### 4. ENVIANDO MAILS A TRAVES DE JAVA
