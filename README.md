@@ -15,8 +15,6 @@
 ### [5. ENVIANDO MAILS A TRAVES DE JAVA](#5-enviando-mails-a-través-de-java)
 ### 6. LEYENDO MAILS A TRAVES DE JAVA
 
-
-
 ## 1. INTRODUCCIÓN
 
 En esta pratica realizaré un programa en Java que permita enviar mails a través de un servidor de correo propio, se capturarán los mensajes que vaya mostrando el servidor. La cuenta de correo que envía un mail estará autenticada y utilizará el protocolo estándar SMTP (Port 25), dicho mail se enviará a una segunda cuenta de correo del servidor. Además realizaré un segundo programa en Java realizaré una consulta del mail mediante el protocolo IMAP (Port 143) y mostrará en pantalla un listado de los mails existentes en el buzón. Las herramientas de desarrollo que se utilizarán son Eclipse como IDE, Swing para el desarrollo de ventanas y la librería JavaMail para poder enviar correos. 
@@ -74,7 +72,7 @@ A continuación dejo el código del programa donde explicaré a través de códi
 
 Clase LoginWindow:
 
-```java
+```
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
