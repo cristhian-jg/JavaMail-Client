@@ -72,7 +72,7 @@ A continuación dejo el código del programa donde explicaré a través de códi
 
 Clase LoginWindow:
 
-```
+```java
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
