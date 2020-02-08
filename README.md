@@ -13,7 +13,7 @@
 ### [3. PRUEBAS CON EL SERVIDOR DE CORREO](#3-pruebas-con-el-servidor-de-correo-1)
 ### [4. AUNTENTICANDO E-MAILS EN JAVA](#4-autenticando-e-mails-en-java)
 ### [5. ENVIANDO MAILS A TRAVES DE JAVA](#5-enviando-mails-a-través-de-java)
-### 6. LEYENDO MAILS A TRAVES DE JAVA
+### [6. LEYENDO MAILS A TRAVES DE JAVA](#6-leyendo-mails-a-través-de-java)
 
 ## 1. INTRODUCCIÓN
 
@@ -261,6 +261,9 @@ public class LoginWindow extends JFrame {
 ```
 ## 5. ENVIANDO MAILS A TRAVÉS DE JAVA
 
+En esta enviaré mensajes através de mi servidor SMTP para ello haré de las clases MimeMessage
+y Transport. Más detalles comentados en el código.
+
 Clase MessageWindow: 
 
 ```java
@@ -394,5 +397,9 @@ public class MessageWindow extends JFrame {
 }
 ```
 
-## 5. LEYENDO MAILS A TRAVES DE JAVA
+## 6. LEYENDO MAILS A TRAVES DE JAVA
 
+La siguiente clase define la bandeja de entrada de mi programa, donde se muestran todos los
+mensajes de la cuenta y su contenido. Para la lectura de mails tendremos que crear unas nuevas
+propiedades para conectarnos atraves de IMAP por el puerto 143. Más detalles comentados en el
+código.
