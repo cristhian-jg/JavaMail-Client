@@ -121,6 +121,11 @@ public class MessageWindow extends JFrame {
 		contentPane.add(lblMensajeNuevo);
 
 		JButton btnCancelar = new JButton("Cancelar");
+		btnCancelar.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				dispose();
+			}
+		});
 		btnCancelar.setBounds(323, 215, 97, 25);
 		contentPane.add(btnCancelar);
 	}
